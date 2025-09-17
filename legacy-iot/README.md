@@ -1,3 +1,9 @@
+# Legacy IoT Prototype (Archived)
+This directory preserves the early Raspberry Pi + Python prototype.
+I’m continuing the project as an iOS app for a simpler, more accessible experience.
+
+----------------------------------------------------------------------------------------------
+
 # Zone 2 Fat-Burn Tracker
 
 This project helps users stay in the optimal heart rate zone for fat-burning workouts by providing real-time tracking and live feedback based on personalised health data.
