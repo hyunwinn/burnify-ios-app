@@ -92,6 +92,8 @@ iOSInjectionProject/
 
 Xcode Patch
 .xcodeproj/
+*.xcworkspace/
+Burnify.xcodeproj/project.xcworkspace/contents.xcworkspacedata
 !.xcodeproj/project.pbxproj
 !.xcodeproj/xcshareddata/
 #!.xcodeproj/project.xcworkspace/
